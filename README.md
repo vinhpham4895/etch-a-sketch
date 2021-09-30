@@ -1,1 +1,1 @@
-# etch-a-sketch
+Project Odin simple Etch-a-Sketch board
